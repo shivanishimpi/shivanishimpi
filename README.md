@@ -1,6 +1,6 @@
 ### Stats for [@shivanishimpi](https://github.com/shivanishimpi/)
 
-- 🚀 Working a breakthrough idea? Let's innovate! 
+- 🚀 Working on a breakthrough idea? Let's innovate! 
 - 🔗 Reach out: [shivani.shimpi@edvora.com](https://mailto:shivani.shimpi@edvora.com) | [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 - Artificial Intelligence | [Edvora](https://edvora.com) | Distributed Ledger | Full-stack Development | Education Technology.
 - 🔭 Building the future of Edtech+ with a long-term mission for Finance, Enterprise, Education, and Technology, individually and incorporated.
