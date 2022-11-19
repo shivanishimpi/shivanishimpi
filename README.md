@@ -1,7 +1,7 @@
 ### Stats for [@shivanishimpi](https://github.com/shivanishimpi/)
 
 - 🔗 Reach out: [shivani@edvora.com](https://mailto:shivani@edvora.com) | [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
-- 🔭 Key Interests: Startups, Scaling, DeepTech (AI, Blockchain, Quantum Computing) | [Edvora](https://edvora.com) | FinTech
+- 🔭 Key Interests: DeepTech (AI, Blockchain, Quantum Computing) | Startups | [Edvora](https://edvora.com) | FinTech
 - 🌎 Let's make this place better for the living
 
 
